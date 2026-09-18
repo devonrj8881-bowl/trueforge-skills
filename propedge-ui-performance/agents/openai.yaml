@@ -1,0 +1,4 @@
+interface:
+  display_name: "PropEdge UI + Performance"
+  short_description: "Design, build, and optimize PropEdge interfaces"
+  default_prompt: "Use $propedge-ui-performance for this PropEdge frontend task."
