@@ -1,0 +1,5 @@
+interface:
+  display_name: "Graphify"
+  short_description: "Query PropEdge graph via CLI, not MCP"
+policy:
+  allow_implicit_invocation: true
